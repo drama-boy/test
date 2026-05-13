@@ -17,15 +17,12 @@ for i in range(100):
 print("*********")
 for i in range(100):
     print(a*b)
-<<<<<<< HEAD
+    
+a,b=1,1
+a,b=1,1
+a,b=1,1
+a,b=1,1
+a,b=1,1
+a,b=1,1
+a,b=1,1
 
-print("第七次")
-=======
-a,b=1,1
-a,b=1,1
-a,b=1,1
-a,b=1,1
-a,b=1,1
-a,b=1,1
-a,b=1,1
->>>>>>> origin
