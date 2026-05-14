@@ -9,8 +9,10 @@ a,b=1,1
 
 print("*********")
 for i in range(100):
-    print(a*b)
-
+    print(a==b)
+    
+for i in range(100):
+    print(a==b)
 
 print("===========")
 
